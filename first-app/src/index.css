@@ -1,0 +1,19 @@
+.card {
+  border: 1px lab(5.24% 0.78 0.27);
+  border-radius: 10px;
+  box-shadow: 5px 5px rgb(207, 203, 203);
+  text-align: center;
+  max-width: 250px;
+  display: inline-block;
+
+}
+
+.card-img{
+  max-width: 60%;
+  height: auto;
+  border-radius: 50%;
+  margin-bottom: 10px;
+
+
+
+}
